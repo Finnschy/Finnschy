@@ -1,4 +1,4 @@
-### Hi there 👋 My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs und Ejs. 
+### Hi there 👋  My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs und Ejs. 
 ### 🔭 I’m currently working on a webapp with Spotify web API.
 ### 🌱 I’m currently learning ExpressJs and Ejs.
 ### 💬 Ask me about my favourite dinosaur!
