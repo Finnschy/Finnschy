@@ -1,5 +1,5 @@
 ### Hi there 👋  
-My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs and Ejs. I'm also teaching HTML, CSS and JS as an assistent trainer at SuperCode. 📖
+My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs and Ejs. I'm also teaching HTML, CSS and JS as an assistant trainer at <a>test</a>SuperCode. 📖
 
 🔭 I’m currently working on a webapp with Spotify web API.
 
