@@ -3,7 +3,7 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
 
 🔭 I’m currently working on the webpage from supercode.
 
-🌱 I’m currently learning ExpressJs and Ejs and mongoDB.
+🌱 I’m currently deepening my skills.
 
 💬 Ask me about my favourite dinosaur!
 <!--
