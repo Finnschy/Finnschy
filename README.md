@@ -8,7 +8,7 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
 🌱 I’m currently deepening my skills.
 
 💬 Ask me about my favourite dinosaur!
-<p> <a href="https://www.instagram.com/finnschy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a><a href="https://www.linkedin.com/in/finn-schlottmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/finn-schlottmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/finnschy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <!--
 **Finnschy/Finnschy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
