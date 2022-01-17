@@ -9,7 +9,8 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
 
 💬 Ask me about my favourite dinosaur!
 
-![Finnschy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finnschy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnschy&layout=compact)](https://github.com/Finnschy/github-readme-stats)
+
 
 
 <p><a href="https://www.linkedin.com/in/finn-schlottmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/finnschy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
