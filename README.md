@@ -3,8 +3,8 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs and Ejs. I'm also teaching HTML, CSS and JS as an assistant trainer at [supercode](https://www.super-code.de/). 📖
 
-<h3 align="left" style="color: red;">Languages and Tools:</h3>
-<p align="left" style="background-color: white;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
   </a> 
