@@ -30,7 +30,7 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/> 
+    <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
 
