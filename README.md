@@ -14,11 +14,14 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+    <a href="https://expressjs.com/de/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -26,7 +29,12 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/> 
+  </a>
 </p>
+
+
 
 🔭 I’m currently working on the webpage from supercode.
 
