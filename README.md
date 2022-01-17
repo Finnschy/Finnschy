@@ -46,7 +46,7 @@ My name's Finn and I'm a graphic designer with experience in print but also a fr
 
 🌱 I’m constantly deepening my skills. Also having a look into Node.js/Express.js. 
 
-💬 Ask me about my favourite dinosaur!
+💬 Ask me about my favourite dinosaur! 🦕
 
 😄 Pronouns: He/Him
 
