@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/tPGdyv4.png" alt="Finnschy GitHub README header image">
 
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs and Ejs. I'm also teaching HTML, CSS and JS as an assistant trainer at [supercode](https://www.super-code.de/). 📖
+My name's Finn and I'm a graphic designer with experience in print but also a frontend developer with experience in building web apps with HTML/ CSS/ SASS, JavaScript, ReactJs, Node/ ExpressJs and Ejs. I used to teacg HTML, CSS and JS as an trainer at [supercode](https://www.super-code.de/) but I'm now a working as a frontend developer. 📖
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
